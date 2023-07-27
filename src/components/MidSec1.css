@@ -1,0 +1,84 @@
+.Mid1 h1{
+    padding-left: 25%;
+    margin-top: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 55px;
+}
+.Mid1 p{
+    padding-left: 29%;
+    font-size: 15px;
+    margin-bottom: 5%;
+}
+
+.img1 img{
+    padding-right: 28px;
+    margin-bottom: 5%;
+}
+.pro{
+    padding-left: 2%;
+}
+.pro p{
+    font-style: italic;
+    font-weight: 20px;
+}
+.pro b{
+    font-weight: 500px;
+    font-size: xx-large;
+    font-style: normal;
+}
+
+.img2 img{
+    padding-left: 30px;
+    margin-bottom: 5%;
+}
+.pro2{
+    padding-left: 6%;
+}
+.pro2 p{
+    font-style: italic;
+    font-weight: 15px;
+}
+.pro2 b{
+    font-weight: 500px;
+    font-size: xx-large;
+    font-style: normal;
+}
+
+.title b{
+    font-size: 12px;
+    margin-top: 15px;
+    color: #051505;
+}
+
+.title2 b{
+    font-size: small;
+    color: #111211;
+}
+.button2{
+  background-color: #111211; /* Green */
+  border-radius: 4px;
+  color: white;
+  padding: 13px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.msg{
+    font-size: small;
+    margin-bottom: 50px;
+}
+.e {
+    /* background-color: rgb(209, 223, 223); */
+    background-image: url("https://img.freepik.com/free-vector/abstract-blue-geometric-shapes-background_1035-17545.jpg?w=2000");
+    height: 366px;
+    width: 103%;
+    border-radius: 10px;
+}
+
+.e{
+    padding-left: 50px;
+}
